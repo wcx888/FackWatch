@@ -1,0 +1,9 @@
+# 签名文件与构建产物不入库
+*.jks
+*.keystore
+*.idsig
+build/
+wxhook-build/
+
+# 个人资料
+*.log
